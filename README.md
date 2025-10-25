@@ -1,6 +1,6 @@
 # 🧠 sc-ga-optimizer
 
-**sc-ga-optimizer** is a project developed by **Sebastián Corredor** as part of his Master's Thesis.  
+**sc-ga-optimizer** is a project developed by **Sebastian Corredor** as part of his Master's Thesis.  
 It implements a **Genetic Algorithm (GA) optimizer** in **Python**, featuring a modular architecture and custom wrappers for flexible integration of models and objective functions.
 
 ---
